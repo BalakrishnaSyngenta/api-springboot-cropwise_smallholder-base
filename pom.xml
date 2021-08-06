@@ -69,12 +69,6 @@
                 <version>0.8.3</version>
                 <configuration>
                     <excludes>
-                        <exclude>com/syngenta/growerconsole/model/*</exclude>
-                        <exclude>com/syngenta/growerconsole/exceptions/handler/*</exclude>
-                        <exclude>com/syngenta/growerconsole/entity/*</exclude>
-                        <exclude>com/syngenta/growerconsole/security/*</exclude>
-                        <exclude>com/syngenta/growerconsole/legacy/*</exclude>
-                        <exclude>com/syngenta/growerconsole/controller/SwaggerController.class</exclude>
                     </excludes>
                     <outputDirectory>target/jacoco-report</outputDirectory>
                 </configuration>

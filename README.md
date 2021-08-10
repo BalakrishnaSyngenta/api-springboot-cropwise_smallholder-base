@@ -17,8 +17,12 @@ The app will be listening on `port: 8080`
 - Be gentle in the comments when code reviewing;
 - Test the changes before merging.
 
+### Commiting
+- Keep commits short - it facilitates code reviewing, since it's easy to match the code with its intention;
+- Follow [these guidelines](https://chris.beams.io/posts/git-commit/); no need to be too strict, but make sure to respect rule #5.
+
 ### CI/CD
-- SonarCloud is disabled for now, but new code with _smells_ or _warnings_ must be reject;
+- SonarCloud is disabled for now, but new code with _smells_ or _warnings_ must be rejected.
 
 ### Package Structure
 
